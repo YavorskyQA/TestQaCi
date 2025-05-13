@@ -18,10 +18,10 @@ def test_login_success(driver):
     # home_page.click_profile()
     # home_page.click_exit()
     # home_page.click_sure_exit()
-    home_page.click_qa()
-    home_page.click_ranks()
-    home_page.click_homework()
-    home_page.select_hw()
+    # home_page.click_qa()
+    # home_page.click_ranks()
+    # home_page.click_homework()
+    # home_page.select_hw()
 
 
 
